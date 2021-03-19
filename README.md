@@ -16,4 +16,4 @@ Library Management System - Android Application
 03.	Code Execution:
 
 	Code can be executed on the Android Studio,
-	or can be executed on an Android smart phone using the Android Studio.
+	or can be executed on an Android smart phone using the Android Studio. 
